@@ -1,1 +1,1 @@
-# miniCourse
+# DukeMicroCourse
